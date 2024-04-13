@@ -1,5 +1,5 @@
 # Prueba de conflicto
 ## UC
-### Giancarlo Galindo
+### Jhoanes Espejo
 EAP: Ingeniería de Sistemas e Informática
 Construcción de software
